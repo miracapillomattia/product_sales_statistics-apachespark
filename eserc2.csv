@@ -1,0 +1,7 @@
+data,vendita,prodotto,quantita,prezzoUnitario
+2023-07-01,ProdottoA,10,20.0
+2023-07-01,ProdottoB,5,15.0
+2023-07-02,ProdottoA,5,20.0
+2023-07-02,ProdottoC,8,25.0
+2023-07-03,ProdottoB,12,15.0
+2023-07-03,ProdottoC,3,25.0
